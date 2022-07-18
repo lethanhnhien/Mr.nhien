@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>đèn</title>
+	<atom:link href="http://localhost/myproject/wordpress/danh-muc-san-pham/den/feed/" rel="self" type="application/rss+xml" />
+	<link>https://lethanhnhien.github.io/Mr.nhien</link>
+	<description></description>
+	<lastBuildDate>Sun, 10 Jul 2022 15:50:33 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0.1</generator>
+	<item>
+		<title>Matte Black Table Lamp</title>
+		<link>https://lethanhnhien.github.io/Mr.nhien/san-pham/matte-black-table-lamp/</link>
+					<comments>https://lethanhnhien.github.io/Mr.nhien/san-pham/matte-black-table-lamp/#respond</comments>
+		
+		<dc:creator><![CDATA[thanhnhien]]></dc:creator>
+		<pubDate>Sun, 10 Jul 2022 15:47:31 +0000</pubDate>
+				<guid isPermaLink="false">https://lethanhnhien.github.io/Mr.nhien/?post_type=product&#038;p=423</guid>
+
+					<description><![CDATA[If you are looking for a single item or are planning to furnish a several-store place, you’ll find all kinds of furniture for any taste in this online store. We have a rule of &#8230;]]></description>
+										<content:encoded><![CDATA[<p>If you are looking for a single item or are planning to furnish a several-store place, you’ll find all kinds of furniture for any taste in this online store. We have a rule of &#8230;</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://lethanhnhien.github.io/Mr.nhien/san-pham/matte-black-table-lamp/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
